@@ -1,43 +1,43 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Only July</title>
-        <link>/</link>
+        <link>https://july.js.org/</link>
         <description>Nanaの省エネ人生</description>
         <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 27 Mar 2019 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://july.js.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Google AdSense、もしもAmazonアフィリエイト審査通過</title>
-    <link>/affiliate/</link>
+    <link>https://july.js.org/affiliate/</link>
     <pubDate>Wed, 27 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/affiliate/</guid>
+    <guid>https://july.js.org/affiliate/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/marketing.jpg" referrerpolicy="no-referrer">
             </div>毎回新しい記事を公開したらすぐにGoogle Adsenseの申込を入れました。ようやく5つ目の記事が公開したタイミングに、審査通過の連絡が来]]></description>
 </item><item>
     <title>生活品質向上の一品 おすすめな蛇口直結型浄水器・浄水ポート</title>
-    <link>/water-filter/</link>
+    <link>https://july.js.org/water-filter/</link>
     <pubDate>Sun, 24 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/water-filter/</guid>
+    <guid>https://july.js.org/water-filter/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/faucet.jpg" referrerpolicy="no-referrer">
             </div>東京都水道局 よくある質問 浄水器について 質問： 浄水器は必要なのでしょうか。 回答： 水道水は、水道法に基づく水質基準に適合しておりますので、安心し]]></description>
 </item><item>
     <title>韓国旅行のための地図アプリとSIMカード・ポケットWiFiレンタル</title>
-    <link>/korea-travel/</link>
+    <link>https://july.js.org/korea-travel/</link>
     <pubDate>Sat, 23 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/korea-travel/</guid>
+    <guid>https://july.js.org/korea-travel/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/jinhae-cherry-blossom.jpg" referrerpolicy="no-referrer">
             </div>4月に釜山近郊の鎮海軍港祭へお花見しに行きます！日本と違う雰囲気で桜を楽しめるではないかと思いながらわくわくしています。 😆 韓国旅行は、3年前]]></description>
 </item><item>
     <title>自宅で簡単にタピオカミルクティー！お手頃な値段で材料を揃えよう</title>
-    <link>/tapioca-milk-tea/</link>
+    <link>https://july.js.org/tapioca-milk-tea/</link>
     <pubDate>Fri, 08 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/tapioca-milk-tea/</guid>
+    <guid>https://july.js.org/tapioca-milk-tea/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/tapioca.jpg" referrerpolicy="no-referrer">
             </div>都内繁華街で常に行列ができるタピオカミルクティー専門店。 タピオカミルクが好きだけどせっかくの休日に外出はしたくないね…と常に思ってる私が自宅]]></description>

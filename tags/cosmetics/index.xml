@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>化粧品 - タグ - Only July</title>
-        <link>/tags/cosmetics/</link>
+        <link>https://july.js.org/tags/cosmetics/</link>
         <description>化粧品 - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/tags/cosmetics/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/cosmetics/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>台所 - タグ - Only July</title>
-        <link>/tags/kitchen/</link>
+        <link>https://july.js.org/tags/kitchen/</link>
         <description>台所 - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/tags/kitchen/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/kitchen/" rel="self" type="application/rss+xml" /><item>
     <title>生活品質向上の一品 おすすめな蛇口直結型浄水器・浄水ポート</title>
-    <link>/water-filter/</link>
+    <link>https://july.js.org/water-filter/</link>
     <pubDate>Sun, 24 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/water-filter/</guid>
+    <guid>https://july.js.org/water-filter/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/faucet.jpg" referrerpolicy="no-referrer">
             </div>東京都水道局 よくある質問 浄水器について 質問： 浄水器は必要なのでしょうか。 回答： 水道水は、水道法に基づく水質基準に適合しておりますので、安心し]]></description>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>旅行 - カテゴリ - Only July</title>
-        <link>/categories/trip/</link>
+        <link>https://july.js.org/categories/trip/</link>
         <description>旅行 - カテゴリ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/categories/trip/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/categories/trip/" rel="self" type="application/rss+xml" /><item>
     <title>韓国旅行のための地図アプリとSIMカード・ポケットWiFiレンタル</title>
-    <link>/korea-travel/</link>
+    <link>https://july.js.org/korea-travel/</link>
     <pubDate>Sat, 23 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/korea-travel/</guid>
+    <guid>https://july.js.org/korea-travel/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/jinhae-cherry-blossom.jpg" referrerpolicy="no-referrer">
             </div>4月に釜山近郊の鎮海軍港祭へお花見しに行きます！日本と違う雰囲気で桜を楽しめるではないかと思いながらわくわくしています。 😆 韓国旅行は、3年前]]></description>

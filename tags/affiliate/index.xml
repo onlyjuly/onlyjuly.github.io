@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>アフィリエイト - タグ - Only July</title>
-        <link>/tags/affiliate/</link>
+        <link>https://july.js.org/tags/affiliate/</link>
         <description>アフィリエイト - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/tags/affiliate/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/affiliate/" rel="self" type="application/rss+xml" /><item>
     <title>Google AdSense、もしもAmazonアフィリエイト審査通過</title>
-    <link>/affiliate/</link>
+    <link>https://july.js.org/affiliate/</link>
     <pubDate>Wed, 27 Mar 2019 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>/affiliate/</guid>
+    <guid>https://july.js.org/affiliate/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/marketing.jpg" referrerpolicy="no-referrer">
             </div>毎回新しい記事を公開したらすぐにGoogle Adsenseの申込を入れました。ようやく5つ目の記事が公開したタイミングに、審査通過の連絡が来]]></description>
