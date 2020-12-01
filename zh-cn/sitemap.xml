@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://july.js.org/zh-cn/categories/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://july.js.org/zh-cn/categories/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://july.js.org/categories/"
@@ -11,7 +11,16 @@
                     hreflang="zh-cn"
                     href="https://july.js.org/zh-cn/categories/"
                     /></url><url>
-            <loc>https://july.js.org/zh-cn/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://july.js.org/zh-cn/tags/github/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="https://july.js.org/tags/github/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://july.js.org/zh-cn/tags/github/"
+                    /></url><url>
+            <loc>https://july.js.org/zh-cn/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://july.js.org/"
@@ -20,7 +29,7 @@
                     hreflang="zh-cn"
                     href="https://july.js.org/zh-cn/"
                     /></url><url>
-            <loc>https://july.js.org/zh-cn/posts/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://july.js.org/zh-cn/posts/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://july.js.org/posts/"
@@ -29,7 +38,7 @@
                     hreflang="zh-cn"
                     href="https://july.js.org/zh-cn/posts/"
                     /></url><url>
-            <loc>https://july.js.org/zh-cn/tags/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://july.js.org/zh-cn/tags/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://july.js.org/tags/"
@@ -37,6 +46,24 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://july.js.org/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://july.js.org/zh-cn/tags/blog/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="https://july.js.org/tags/blog/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://july.js.org/zh-cn/tags/blog/"
+                    /></url><url>
+            <loc>https://july.js.org/zh-cn/move/</loc><lastmod>2020-12-02T00:50:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="https://july.js.org/move/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://july.js.org/zh-cn/move/"
                     /></url><url>
             <loc>https://july.js.org/zh-cn/rebate/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://july.js.org/zh-cn/affiliate/</loc><lastmod>2020-11-29T17:51:08&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link

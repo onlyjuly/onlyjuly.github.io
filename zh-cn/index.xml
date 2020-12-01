@@ -3,9 +3,18 @@
         <title>Only July</title>
         <link>https://july.js.org/zh-cn/</link>
         <description>Nana的节能生活</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Apr 2020 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Dec 2020 00:50:31 &#43;0900</lastBuildDate>
             <atom:link href="https://july.js.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>博客搬家了</title>
+    <link>https://july.js.org/zh-cn/move/</link>
+    <pubDate>Wed, 02 Dec 2020 00:50:31 &#43;0900</pubDate>
+    <author>作者</author>
+    <guid>https://july.js.org/zh-cn/move/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/githubpages.jpg" referrerpolicy="no-referrer">
+            </div>把博客托管到了GitHub Pages，顺便从Hexo换成了Hugo，外加换上了js.org的域名。 基本干掉了博客成本。 希望这次静下来以后能好]]></description>
+</item><item>
     <title>高佣金返利、折扣优惠券APP推荐</title>
     <link>https://july.js.org/zh-cn/rebate/</link>
     <pubDate>Thu, 23 Apr 2020 00:00:00 &#43;0000</pubDate>
