@@ -1,7 +1,9 @@
 # Fancl官网满3000减2000优惠券
 
 
-使用优惠码可享受在Fancl日本官网下单满3000日元立减2000日元！  
+现有Fancl提供的圣诞优惠码。  
+使用此优惠码可享受在Fancl日本官网下单满3000日元立减2000日元！
+
 券后Fancl卸妆油两瓶实付1520日元！
 
 {{< image src="/media/fancl-order-2020.jpg" src_l="/media/fancl-order-2020.jpg" >}}
