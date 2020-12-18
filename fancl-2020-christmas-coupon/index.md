@@ -6,7 +6,7 @@
 
 大人気のファンケルマイルドクレンジングオイルをご購入の場合、なんと1520円で2本ゲットできます！
 
-{{< image src="/media/fancl-order-2020.jpg" src_l="/media/fancl-order-2020.jpg" >}}
+{{< image src="/media/fancl-order-2020.jpg" alt="オーダー金額" >}}
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 {{< script >}}
