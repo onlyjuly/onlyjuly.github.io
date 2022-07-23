@@ -7,10 +7,11 @@
     <title>ブログ移転してきた</title>
     <link>https://july.js.org/move/</link>
     <pubDate>Wed, 02 Dec 2020 00:50:22 &#43;0900</pubDate>
-    <author>作者</author>
+    <author>Only July</author>
     <guid>https://july.js.org/move/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/githubpages.jpg" referrerpolicy="no-referrer">
             </div>ブログをGitHub Pagesに移転し、HexoからHugoに切り替え、ドメインもjs.orgに変更しました。 これでコストをカットしました。]]></description>
-</item></channel>
+</item>
+</channel>
 </rss>
