@@ -1,27 +1,78 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>キャンペーン - タグ - Only July</title>
+        <title>キャンペーン on Julyの日常</title>
         <link>https://july.js.org/tags/campaign/</link>
-        <description>キャンペーン - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/campaign/" rel="self" type="application/rss+xml" /><item>
-    <title>ファンケル公式サイト500円引きクーポン</title>
-    <link>https://july.js.org/fancl-2020-500-coupon/</link>
-    <pubDate>Fri, 18 Dec 2020 16:30:00 &#43;0900</pubDate>
-    <author>Only July</author>
-    <guid>https://july.js.org/fancl-2020-500-coupon/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/media/fancl-cleansing.jpg" referrerpolicy="no-referrer">
-            </div>現在ファンケル公式サイトに使える500円引きのクリスマスクーポンを紹介します。 500円以上のお買い上げにて使用可能です。 大人気のファンケルマ]]></description>
-</item>
-<item>
-    <title>ファンケル公式サイト2000円引きクーポン</title>
-    <link>https://july.js.org/fancl-2020-christmas-coupon/</link>
-    <pubDate>Thu, 10 Dec 2020 17:55:54 &#43;0900</pubDate>
-    <author>Only July</author>
-    <guid>https://july.js.org/fancl-2020-christmas-coupon/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/media/fancl-2020.jpg" referrerpolicy="no-referrer">
-            </div>現在ファンケル公式サイトに使える2000円引きのクリスマスクーポンを紹介します。 3000円以上のお買い上げにて使用可能です。 大人気のファンケ]]></description>
-</item>
-</channel>
+        <description>Recent content in キャンペーン on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Fri, 18 Dec 2020 16:30:00 +0900</lastBuildDate><atom:link href="https://july.js.org/tags/campaign/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ファンケル公式サイト500円引きクーポン</title>
+        <link>https://july.js.org/posts/fancl-2020-500-coupon/</link>
+        <pubDate>Fri, 18 Dec 2020 16:30:00 +0900</pubDate>
+        
+        <guid>https://july.js.org/posts/fancl-2020-500-coupon/</guid>
+        <description>&lt;img src="https://july.js.org/posts/fancl-2020-500-coupon/fancl-cleansing.jpg" alt="Featured image of post ファンケル公式サイト500円引きクーポン" /&gt;&lt;p&gt;現在ファンケル公式サイトに使える500円引きのクリスマスクーポンを紹介します。&lt;br&gt;
+500円以上のお買い上げにて使用可能です。&lt;/p&gt;
+&lt;p&gt;大人気のファンケルマイルドクレンジングオイル60mlをご購入の場合、なんと無料でゲットできます！&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://july.js.org/media/fancl-order-500.jpg&#34;
+         alt=&#34;オーダー金額&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://h.accesstrade.net/sp/cc?rk=0100l0gs00kx0w&#34; rel=&#34;nofollow&#34; target=&#34;_blank&#34;&gt;ここから60mlのマイルドクレンジングオイルをカートに追加します。 &lt;img src=&#34;https://h.accesstrade.net/sp/rr?rk=0100l0gs00kx0w&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+$(document).ready(function(){
+$(&#34;.flip&#34;).click(function(){
+$(&#34;.panel&#34;).toggle();
+});
+});
+ copyUrl ( $(&#34;#copy_msg_one&#34;) );
+  function copyUrl(dom) {
+        dom.click(function () {
+            var url = $(this).prev();
+            url.select();
+            document.execCommand(&#34;Copy&#34;);
+            alert(&#34;コピーしました&#34;);
+        })
+    }
+&lt;/script&gt;
+&lt;p&gt;&lt;button class=&#34;flip&#34;&gt;クーポンコード取得&lt;/button&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;textarea class=&#34;panel&#34; id=&#34;copy_msg_one&#34; style=&#34;display:none;resize:none;&#34; readonly&gt;105-2107&lt;/textarea&gt;</description>
+        </item>
+        <item>
+        <title>ファンケル公式サイト2000円引きクーポン</title>
+        <link>https://july.js.org/posts/fancl-2020-christmas-coupon/</link>
+        <pubDate>Thu, 10 Dec 2020 17:55:54 +0900</pubDate>
+        
+        <guid>https://july.js.org/posts/fancl-2020-christmas-coupon/</guid>
+        <description>&lt;img src="https://july.js.org/posts/fancl-2020-christmas-coupon/fancl-2020.jpg" alt="Featured image of post ファンケル公式サイト2000円引きクーポン" /&gt;&lt;p&gt;現在ファンケル公式サイトに使える2000円引きのクリスマスクーポンを紹介します。&lt;br&gt;
+3000円以上のお買い上げにて使用可能です。&lt;/p&gt;
+&lt;p&gt;大人気のファンケルマイルドクレンジングオイルをご購入の場合、なんと1520円で2本ゲットできます！&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://july.js.org/media/fancl-order-2020.jpg&#34;
+         alt=&#34;オーダー金額&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+$(document).ready(function(){
+$(&#34;.flip&#34;).click(function(){
+$(&#34;.panel&#34;).toggle();
+});
+});
+ copyUrl ( $(&#34;#copy_msg_one&#34;) );
+  function copyUrl(dom) {
+        dom.click(function () {
+            var url = $(this).prev();
+            url.select();
+            document.execCommand(&#34;Copy&#34;);
+            alert(&#34;コピーしました&#34;);
+        })
+    }
+&lt;/script&gt;
+&lt;p&gt;&lt;a href=&#34;https://h.accesstrade.net/sp/cc?rk=0100l0gs00kx0w&#34; rel=&#34;nofollow&#34; target=&#34;_blank&#34;&gt;&lt;button class=&#34;flip&#34;&gt;クーポンコード取得 &lt;img src=&#34;https://h.accesstrade.net/sp/rr?rk=0100l0gs00kx0w&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; /&gt;&lt;/button&gt;&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;textarea class=&#34;panel&#34; id=&#34;copy_msg_one&#34; style=&#34;display:none;resize:none;&#34; readonly&gt;664-0382&lt;/textarea&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

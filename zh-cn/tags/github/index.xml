@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>GitHub on Julyの日常</title>
+        <link>https://july.js.org/zh-cn/tags/github/</link>
+        <description>Recent content in GitHub on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Wed, 02 Dec 2020 00:50:31 +0900</lastBuildDate><atom:link href="https://july.js.org/zh-cn/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客搬家了</title>
+        <link>https://july.js.org/zh-cn/posts/move/</link>
+        <pubDate>Wed, 02 Dec 2020 00:50:31 +0900</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/posts/move/</guid>
+        <description>&lt;img src="https://july.js.org/zh-cn/posts/move/githubpages.jpg" alt="Featured image of post 博客搬家了" /&gt;&lt;p&gt;把博客托管到了GitHub Pages，顺便从Hexo换成了Hugo，外加换上了js.org的域名。&lt;br&gt;
+基本干掉了博客成本。&lt;/p&gt;
+&lt;p&gt;希望这次静下来以后能好好写一写博客。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

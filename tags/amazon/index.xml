@@ -1,7 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>アマゾン - タグ - Only July</title>
+        <title>アマゾン on Julyの日常</title>
         <link>https://july.js.org/tags/amazon/</link>
-        <description>アマゾン - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/amazon/" rel="self" type="application/rss+xml" /></channel>
+        <description>Recent content in アマゾン on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language><atom:link href="https://july.js.org/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>

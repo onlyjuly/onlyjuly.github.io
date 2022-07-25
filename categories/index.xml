@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Julyの日常</title>
+        <link>https://july.js.org/categories/</link>
+        <description>Recent content in Categories on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Fri, 18 Dec 2020 16:30:00 +0900</lastBuildDate><atom:link href="https://july.js.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ビューティ</title>
+        <link>https://july.js.org/categories/beauty/</link>
+        <pubDate>Fri, 18 Dec 2020 16:30:00 +0900</pubDate>
+        
+        <guid>https://july.js.org/categories/beauty/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>買い物</title>
+        <link>https://july.js.org/categories/shopping/</link>
+        <pubDate>Fri, 18 Dec 2020 16:30:00 +0900</pubDate>
+        
+        <guid>https://july.js.org/categories/shopping/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ウェブ</title>
+        <link>https://july.js.org/categories/web/</link>
+        <pubDate>Wed, 02 Dec 2020 00:50:22 +0900</pubDate>
+        
+        <guid>https://july.js.org/categories/web/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>旅行</title>
+        <link>https://july.js.org/categories/trip/</link>
+        <pubDate>Sat, 23 Mar 2019 00:00:00 +0900</pubDate>
+        
+        <guid>https://july.js.org/categories/trip/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

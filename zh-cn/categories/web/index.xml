@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>网络 on Julyの日常</title>
+        <link>https://july.js.org/zh-cn/categories/web/</link>
+        <description>Recent content in 网络 on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Wed, 02 Dec 2020 00:50:31 +0900</lastBuildDate><atom:link href="https://july.js.org/zh-cn/categories/web/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客搬家了</title>
+        <link>https://july.js.org/zh-cn/posts/move/</link>
+        <pubDate>Wed, 02 Dec 2020 00:50:31 +0900</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/posts/move/</guid>
+        <description>&lt;img src="https://july.js.org/zh-cn/posts/move/githubpages.jpg" alt="Featured image of post 博客搬家了" /&gt;&lt;p&gt;把博客托管到了GitHub Pages，顺便从Hexo换成了Hugo，外加换上了js.org的域名。&lt;br&gt;
+基本干掉了博客成本。&lt;/p&gt;
+&lt;p&gt;希望这次静下来以后能好好写一写博客。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Google AdSense审核通过</title>
+        <link>https://july.js.org/zh-cn/posts/affiliate/</link>
+        <pubDate>Wed, 27 Mar 2019 00:00:00 +0800</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/posts/affiliate/</guid>
+        <description>&lt;img src="https://july.js.org/zh-cn/posts/affiliate/marketing.jpg" alt="Featured image of post Google AdSense审核通过" /&gt;&lt;p&gt;一级域名的日文博客文章数满五篇之后AdSense给批了。以前写博客的时候不到五篇印象中也批了，可能稍微提高了一点门槛哈（也没多高）&lt;/p&gt;
+&lt;p&gt;另外满5篇之后几个之前审核不通过的大点儿的日本广告联盟也通过了，日亚的推广链也有了。然而淘宝联盟还是挂了，满十篇之后再试试。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

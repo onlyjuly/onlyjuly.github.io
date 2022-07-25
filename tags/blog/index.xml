@@ -1,17 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>ブログ - タグ - Only July</title>
+        <title>ブログ on Julyの日常</title>
         <link>https://july.js.org/tags/blog/</link>
-        <description>ブログ - タグ - Only July</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://july.js.org/tags/blog/" rel="self" type="application/rss+xml" /><item>
-    <title>ブログ移転してきた</title>
-    <link>https://july.js.org/move/</link>
-    <pubDate>Wed, 02 Dec 2020 00:50:22 &#43;0900</pubDate>
-    <author>Only July</author>
-    <guid>https://july.js.org/move/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/media/githubpages.jpg" referrerpolicy="no-referrer">
-            </div>ブログをGitHub Pagesに移転し、HexoからHugoに切り替え、ドメインもjs.orgに変更しました。 これでコストをカットしました。]]></description>
-</item>
-</channel>
+        <description>Recent content in ブログ on Julyの日常</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Wed, 02 Dec 2020 00:50:22 +0900</lastBuildDate><atom:link href="https://july.js.org/tags/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ブログ移転してきた</title>
+        <link>https://july.js.org/posts/move/</link>
+        <pubDate>Wed, 02 Dec 2020 00:50:22 +0900</pubDate>
+        
+        <guid>https://july.js.org/posts/move/</guid>
+        <description>&lt;img src="https://july.js.org/posts/move/githubpages.jpg" alt="Featured image of post ブログ移転してきた" /&gt;&lt;p&gt;ブログをGitHub Pagesに移転し、HexoからHugoに切り替え、ドメインもjs.orgに変更しました。&lt;br&gt;
+これでコストをカットしました。&lt;/p&gt;
+&lt;p&gt;また日常生活が落ち着いたら少しブログをゆっくり書こうと思います。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
