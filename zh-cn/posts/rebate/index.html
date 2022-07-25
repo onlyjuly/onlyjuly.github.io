@@ -467,24 +467,26 @@ if (!doNotTrack) {
      
     
         
-    <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
-<div id="waline" class="waline-container"></div>
-<style>
-    .waline-container {
-        background-color: var(--card-background);
-        border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
-        padding: var(--card-padding);
-        --waline-font-size: var(--article-font-size);
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b243a16a-9c21-46bf-9e28-a1f9e44be04f"
+    data-page-id="d04f6b9389b7e2db860fe84b329d200c"
+    data-page-url="https://july.js.org/zh-cn/posts/rebate/"
+    data-page-title="高佣金返利、折扣优惠券APP推荐"></div><script defer src="https://cusdis.com/js/widget/lang/zh-cn.js"></script><script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+    function setCusdisTheme(theme) {
+        let cusdis = document.querySelector('#cusdis_thread iframe');
+        if (cusdis) {
+            window.CUSDIS.setTheme(theme)
+        }
     }
-    .waline-container .wl-count {
-        color: var(--card-text-color-main);
-    }
-</style><script>
-    
-    Waline.init({"avatar":"hide","dark":"html[data-scheme=\"dark\"]","el":"#waline","emoji":["https://unpkg.com/@waline/emojis@1.0.1/weibo"],"lang":"en","locale":{"admin":"Admin"},"requiredMeta":["nick","mail"],"serverURL":"july.up.railway.app"});
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        setCusdisTheme(e.detail)
+    })
 </script>
+
 
     
 
