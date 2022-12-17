@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://july.js.org/</loc>
-    <lastmod>2020-12-18T16:30:00+09:00</lastmod>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://july.js.org/categories/</loc>
-    <lastmod>2020-12-18T16:30:00+09:00</lastmod>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://july.js.org/posts/</loc>
-    <lastmod>2020-12-18T16:30:00+09:00</lastmod>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://july.js.org/tags/</loc>
-    <lastmod>2020-12-18T16:30:00+09:00</lastmod>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -52,6 +52,58 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://july.js.org/tags/"
+                />
+  </url><url>
+    <loc>https://july.js.org/tags/gourmet/</loc>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/tags/gourmet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/tags/gourmet/"
+                />
+  </url><url>
+    <loc>https://july.js.org/tags/daiso/</loc>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/tags/daiso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/tags/daiso/"
+                />
+  </url><url>
+    <loc>https://july.js.org/posts/daiso-straw/</loc>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/posts/daiso-straw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/posts/daiso-straw/"
+                />
+  </url><url>
+    <loc>https://july.js.org/categories/shopping/</loc>
+    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/categories/shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/categories/shopping/"
                 />
   </url><url>
     <loc>https://july.js.org/tags/campaign/</loc>
@@ -104,19 +156,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://july.js.org/tags/cosmetics/"
-                />
-  </url><url>
-    <loc>https://july.js.org/categories/shopping/</loc>
-    <lastmod>2020-12-18T16:30:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://july.js.org/zh-cn/categories/shopping/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://july.js.org/categories/shopping/"
                 />
   </url><url>
     <loc>https://july.js.org/posts/fancl-2020-christmas-coupon/</loc>
@@ -325,19 +364,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://july.js.org/categories/trip/"
-                />
-  </url><url>
-    <loc>https://july.js.org/tags/gourmet/</loc>
-    <lastmod>2019-03-08T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://july.js.org/zh-cn/tags/gourmet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://july.js.org/tags/gourmet/"
                 />
   </url><url>
     <loc>https://july.js.org/tags/gyomu-super/</loc>

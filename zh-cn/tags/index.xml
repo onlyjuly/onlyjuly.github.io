@@ -6,7 +6,23 @@
         <description>Recent content in Tags on Julyの日常</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Fri, 18 Dec 2020 16:30:00 +0900</lastBuildDate><atom:link href="https://july.js.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://july.js.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>大创</title>
+        <link>https://july.js.org/zh-cn/tags/daiso/</link>
+        <pubDate>Sun, 18 Dec 2022 00:00:00 +0800</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/tags/daiso/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>美食</title>
+        <link>https://july.js.org/zh-cn/tags/gourmet/</link>
+        <pubDate>Sun, 18 Dec 2022 00:00:00 +0800</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/tags/gourmet/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>打折促销</title>
         <link>https://july.js.org/zh-cn/tags/campaign/</link>
         <pubDate>Fri, 18 Dec 2020 16:30:00 +0900</pubDate>
@@ -84,14 +100,6 @@
         <pubDate>Sat, 23 Mar 2019 00:00:00 +0800</pubDate>
         
         <guid>https://july.js.org/zh-cn/tags/pocket-wifi/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>美食</title>
-        <link>https://july.js.org/zh-cn/tags/gourmet/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0800</pubDate>
-        
-        <guid>https://july.js.org/zh-cn/tags/gourmet/</guid>
         <description></description>
         </item>
         <item>
