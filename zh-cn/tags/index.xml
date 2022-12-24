@@ -6,7 +6,15 @@
         <description>Recent content in Tags on Julyの日常</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://july.js.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://july.js.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>交通工具</title>
+        <link>https://july.js.org/zh-cn/tags/transport/</link>
+        <pubDate>Sat, 24 Dec 2022 00:00:00 +0800</pubDate>
+        
+        <guid>https://july.js.org/zh-cn/tags/transport/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>大创</title>
         <link>https://july.js.org/zh-cn/tags/daiso/</link>
         <pubDate>Sun, 18 Dec 2022 00:00:00 +0800</pubDate>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://july.js.org/</loc>
-    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,8 +15,21 @@
                 href="https://july.js.org/"
                 />
   </url><url>
+    <loc>https://july.js.org/posts/nearme/</loc>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/posts/nearme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/posts/nearme/"
+                />
+  </url><url>
     <loc>https://july.js.org/categories/</loc>
-    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +42,7 @@
                 />
   </url><url>
     <loc>https://july.js.org/posts/</loc>
-    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -42,7 +55,7 @@
                 />
   </url><url>
     <loc>https://july.js.org/tags/</loc>
-    <lastmod>2022-12-18T00:00:00+09:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -52,6 +65,32 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://july.js.org/tags/"
+                />
+  </url><url>
+    <loc>https://july.js.org/tags/transport/</loc>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/tags/transport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/tags/transport/"
+                />
+  </url><url>
+    <loc>https://july.js.org/categories/trip/</loc>
+    <lastmod>2022-12-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://july.js.org/zh-cn/categories/trip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://july.js.org/categories/trip/"
                 />
   </url><url>
     <loc>https://july.js.org/tags/gourmet/</loc>
@@ -351,19 +390,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://july.js.org/posts/korea-travel/"
-                />
-  </url><url>
-    <loc>https://july.js.org/categories/trip/</loc>
-    <lastmod>2019-03-23T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://july.js.org/zh-cn/categories/trip/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://july.js.org/categories/trip/"
                 />
   </url><url>
     <loc>https://july.js.org/tags/gyomu-super/</loc>
